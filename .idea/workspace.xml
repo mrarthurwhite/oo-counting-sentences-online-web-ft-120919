@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98998d90-354c-4f0f-9286-a2ac26cd8290" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V5sYepd4M8rkXbeofjLjA2SiDA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98998d90-354c-4f0f-9286-a2ac26cd8290" name="Default Changelist" comment="" />
+      <created>1576554339083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576554339083</updated>
+      <workItem from="1576554342140" duration="8508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2132" y="80" width="1125" height="975" key="dock-window-1" timestamp="1576598907839">
+      <screen x="1920" y="13" width="1920" height="1040" />
+    </state>
+    <state x="2132" y="80" width="1125" height="975" key="dock-window-1/0.0.1920.1040/1920.13.1920.1040@0.0.1920.1040" timestamp="1576598907839" />
+    <state x="802" y="0" width="1125" height="975" key="dock-window-1/0.0.1920.1040/1920.13.1920.1040@1920.13.1920.1040" timestamp="1576598075924" />
+    <state x="802" y="0" width="1125" height="975" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1576591706891" />
+  </component>
+</project>

@@ -15,19 +15,16 @@ class String
   end
 
   def count_sentences
-    d=['.', "[!]+", "?"] #
-    # /[]\.!?]/
-    #binding.pry
-
-    puts a
-    self.split(/[\.!?]/) do |s|
-      puts s
+    i=0
+    self.split(/!+|\.|\?/) do |s|
+      #puts s
+      i+=1
     end
-    puts self.split(Regexp.union(d)).count
-
+      #puts i
+    i
   end
 end
 
 #puts "test.".sentence?
 # puts"Hi. Hello! Ciao?".count_sentences
-"This, well, is a sentence. This is too!! And so is this, I think? Woo...".count_sentences
+#"This, well, is a sentence. This is too!! And so is this, I think? Woo...".count_sentences
